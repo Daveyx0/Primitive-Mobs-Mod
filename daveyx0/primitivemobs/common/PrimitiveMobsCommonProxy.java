@@ -32,4 +32,8 @@ public void registerBlocks(){ //For registering Blocks
 public void registerItems(){ //For registering Items
 
 }
+
+public void registerRenderers(){ //For registering Mobs
+
+}
 }
